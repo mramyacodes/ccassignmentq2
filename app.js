@@ -72,5 +72,5 @@ app.post('/login', async (req, res) => {
 
 
 server.listen(80, function(){
-    console.log("server is listening on port: 3000");
+    console.log("server is listening on port: 80");
 });
